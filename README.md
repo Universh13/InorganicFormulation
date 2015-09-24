@@ -1,2 +1,2 @@
 # InorganicFormulation
-Formulacion Inorganica, BETA 1.8
+Formulacion Inorganica, Alpha version 1
